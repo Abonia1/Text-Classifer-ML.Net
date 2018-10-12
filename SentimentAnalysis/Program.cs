@@ -14,6 +14,9 @@ namespace Model
 {
     public class Program
     {
+
+        
+
         static readonly string _dataPath = Path.Combine(Environment.CurrentDirectory, "Data", "train.tsv");
         static readonly string _testDataPath = Path.Combine(Environment.CurrentDirectory, "Data", "test.tsv");
         static readonly string _modelpath = Path.Combine(Environment.CurrentDirectory, "Data", "Model.zip");
@@ -41,11 +44,19 @@ namespace Model
             //to load train data
             pipeline.Add(new TextLoader(_dataPath).CreateFrom<SentimentData>(useHeader: true));
 
+            pipeline.Add(new Dictionarizer("Label"));
             // TextFeaturizer to convert the SentimentText column into a numeric vector called Features used by the ML algorithm
             pipeline.Add(new TextFeaturizer("Features", "SentimentText"));
 
             //choose learning algorithm
-            pipeline.Add(new FastTreeBinaryClassifier() { NumLeaves = 5, NumTrees = 5, MinDocumentsInLeafs =2});
+            pipeline.Add(new StochasticDualCoordinateAscentClassifier());
+            //pipeline.Add(new LogisticRegressionClassifier());
+            //pipeline.Add(new NaiveBayesClassifier());
+
+            pipeline.Add(new PredictedLabelColumnOriginalValueConverter() { PredictedLabelColumn = "PredictedLabel" });
+
+            
+            //pipeline.Add(new FastTreeBinaryClassifier() { NumLeaves = 5, NumTrees = 5, MinDocumentsInLeafs =2});
 
             //train the model
             PredictionModel<SentimentData, SentimentPrediction> model = pipeline.Train<SentimentData, SentimentPrediction>();
@@ -65,16 +76,16 @@ namespace Model
             var testData = new TextLoader(_testDataPath).CreateFrom<SentimentData>(useHeader: true);
 
             //computes the quality metrics for the PredictionModel
-            var evaluator = new BinaryClassificationEvaluator();
+            var evaluator = new ClassificationEvaluator();
 
             //to get metrices computed by binary classification evaluator
-            BinaryClassificationMetrics metrics = evaluator.Evaluate(model, testData);
+            ClassificationMetrics metrics = evaluator.Evaluate(model, testData);
             Console.WriteLine();
             Console.WriteLine("PredictionModel quality metrics evaluation");
             Console.WriteLine("------------------------------------------");
-            Console.WriteLine($"Accuracy: {metrics.Accuracy:P2}");
-            Console.WriteLine($"Auc: {metrics.Auc:P2}");
-            Console.WriteLine($"F1Score: {metrics.F1Score:P2}");
+            Console.WriteLine($"Accuracy: {metrics.AccuracyMacro:P2}");
+            //Console.WriteLine($"Auc: {metrics.Auc:P2}");
+           // Console.WriteLine($"F1Score: {metrics.F1Score:P2}");
 
 
         }
@@ -88,7 +99,27 @@ namespace Model
             IEnumerable<SentimentData> sentiments = new[]
 
  {
-    new SentimentData
+                new SentimentData
+    {
+        SentimentText = "Saisie d'une absence non-rémunérée sur 2 heures "
+
+    },
+     new SentimentData
+    {
+        SentimentText = "Est ce qu une absence pour accident du travail a un impact sur l attribution des RTTCONGES ANNUELS / RTT / COMPTE EPARGNE TEMPSb"
+
+    },
+     new SentimentData
+    {
+        SentimentText = "New hr is on board"
+
+    },
+      new SentimentData
+    {
+        SentimentText = "Peut on saisir une demi journée de grève ?"
+
+    }
+    /*new SentimentData
     {
         SentimentText = "HR Systems"
 
@@ -152,7 +183,7 @@ namespace Model
     {
         SentimentText = "Career & Talent"
 
-    }
+    }*/
 };
             //sentiment prediction
             IEnumerable<SentimentPrediction> predictions = model.Predict(sentiments);
@@ -162,7 +193,7 @@ namespace Model
             var sentimentsAndPredictions = sentiments.Zip(predictions, (sentiment, prediction) => (sentiment, prediction));
             foreach (var item in sentimentsAndPredictions)
             {
-                Console.WriteLine($"Sentiment: {item.sentiment.SentimentText} | Prediction: {(item.prediction.Sentiment ? "UnQualified" : "Qualified")}");
+                Console.WriteLine($"SentimentText: {item.sentiment.SentimentText} | Category: {(item.prediction.Category )}");
             }
             Console.WriteLine();
             

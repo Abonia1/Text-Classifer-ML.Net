@@ -1,8 +1,8 @@
-Sentiment	SentimentText
-0	        Leave of Absence
-0	        Personnal Data
-0	        HR Systems
-0	        Travel & Expenses
+SentimentText																	Category
+Est ce qu une absence pour accident du travail a un impact sur l attribution des RTCONGES ANNUELS / RTT / COMPTE EPARGNE TEMPSb	                Leave of Absence
+Peut on saisir une demi journée de grève?												        Personnal Data
+new hr is coming	                                                                                                                        HR Systems
+travelling to Canada need expense offer from company	       										        Travel & Expenses
 0	        Benefits & Pay
 0	        Career & Talent
 0	        Onboarding & Offboarding

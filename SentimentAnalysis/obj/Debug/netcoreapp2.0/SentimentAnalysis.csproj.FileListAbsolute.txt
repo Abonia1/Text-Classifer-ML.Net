@@ -9,3 +9,14 @@ C:\Users\asojasingarayar\Desktop\test4\SentimentAnalysis\SentimentAnalysis\obj\D
 C:\Users\asojasingarayar\Desktop\test4\SentimentAnalysis\SentimentAnalysis\bin\Debug\netcoreapp2.0\SentimentAnalysis.pdb
 C:\Users\asojasingarayar\Desktop\test4\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.0\SentimentAnalysis.dll
 C:\Users\asojasingarayar\Desktop\test4\SentimentAnalysis\SentimentAnalysis\obj\Debug\netcoreapp2.0\SentimentAnalysis.pdb
+C:\Users\asojasingarayar\Desktop\test4\SentimentAnalysisV2\SentimentAnalysis\bin\Debug\netcoreapp2.0\SentimentAnalysis.deps.json
+C:\Users\asojasingarayar\Desktop\test4\SentimentAnalysisV2\SentimentAnalysis\bin\Debug\netcoreapp2.0\SentimentAnalysis.runtimeconfig.json
+C:\Users\asojasingarayar\Desktop\test4\SentimentAnalysisV2\SentimentAnalysis\bin\Debug\netcoreapp2.0\SentimentAnalysis.runtimeconfig.dev.json
+C:\Users\asojasingarayar\Desktop\test4\SentimentAnalysisV2\SentimentAnalysis\bin\Debug\netcoreapp2.0\SentimentAnalysis.dll
+C:\Users\asojasingarayar\Desktop\test4\SentimentAnalysisV2\SentimentAnalysis\bin\Debug\netcoreapp2.0\SentimentAnalysis.pdb
+C:\Users\asojasingarayar\Desktop\test4\SentimentAnalysisV2\SentimentAnalysis\obj\Debug\netcoreapp2.0\SentimentAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\asojasingarayar\Desktop\test4\SentimentAnalysisV2\SentimentAnalysis\obj\Debug\netcoreapp2.0\SentimentAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\asojasingarayar\Desktop\test4\SentimentAnalysisV2\SentimentAnalysis\obj\Debug\netcoreapp2.0\SentimentAnalysis.AssemblyInfoInputs.cache
+C:\Users\asojasingarayar\Desktop\test4\SentimentAnalysisV2\SentimentAnalysis\obj\Debug\netcoreapp2.0\SentimentAnalysis.AssemblyInfo.cs
+C:\Users\asojasingarayar\Desktop\test4\SentimentAnalysisV2\SentimentAnalysis\obj\Debug\netcoreapp2.0\SentimentAnalysis.dll
+C:\Users\asojasingarayar\Desktop\test4\SentimentAnalysisV2\SentimentAnalysis\obj\Debug\netcoreapp2.0\SentimentAnalysis.pdb

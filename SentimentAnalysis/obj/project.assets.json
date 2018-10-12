@@ -3913,11 +3913,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\asojasingarayar\\Desktop\\test4\\SentimentAnalysis\\SentimentAnalysis\\SentimentAnalysis.csproj",
+      "projectUniqueName": "C:\\Users\\asojasingarayar\\Desktop\\test4\\SentimentAnalysisV2\\SentimentAnalysis\\SentimentAnalysis.csproj",
       "projectName": "SentimentAnalysis",
-      "projectPath": "C:\\Users\\asojasingarayar\\Desktop\\test4\\SentimentAnalysis\\SentimentAnalysis\\SentimentAnalysis.csproj",
+      "projectPath": "C:\\Users\\asojasingarayar\\Desktop\\test4\\SentimentAnalysisV2\\SentimentAnalysis\\SentimentAnalysis.csproj",
       "packagesPath": "C:\\Users\\asojasingarayar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asojasingarayar\\Desktop\\test4\\SentimentAnalysis\\SentimentAnalysis\\obj\\",
+      "outputPath": "C:\\Users\\asojasingarayar\\Desktop\\test4\\SentimentAnalysisV2\\SentimentAnalysis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

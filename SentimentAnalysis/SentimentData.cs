@@ -11,15 +11,15 @@ namespace Model
 
     public class SentimentData
     {
-        [Column(ordinal: "0", name: "Label")]
-        public float Sentiment;
-        [Column(ordinal: "1")]
+        [Column(ordinal: "0")]
         public string SentimentText;
+        [Column(ordinal: "1", name: "Label")]
+        public string Category;
     }
 
     public class SentimentPrediction
     {
         [ColumnName("PredictedLabel")]
-        public bool Sentiment;
+        public string Category;
     }
 }
