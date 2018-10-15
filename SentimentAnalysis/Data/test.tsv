@@ -1,202 +1,168 @@
-Sentiment	SentimentText
-0	        Leave of Absence
-0	        Personnal Data
-0	        HR Systems
-0	        Travel & Expenses
-0	        Benefits & Pay
-0	        Career & Talent
-0	        Onboarding & Offboarding
-0               Employee Relations
-0               PLEASE CHOOSE...
-1               Access
-1               Site access/Car park
-1		Down payment
-1		Seniority
-1		Travel insurance
-1		Constraints
-1		Advance/Loan
-1		Leave for Personal Development
-1		Personal development Account
-1		Exceptional leave (family event, move, training…)
-1		Leave of absence
-1		Contract and additional clauses
-1		Death
-1		Document request (certificate of employment, health insurance certificate, pay slip duplicate…)
-1		Business trip/Mission/Training
-1		Individual right to training
-1		Various
-1		Various
-1		Various
-1		Apprentice entry
-1		Apprentices
-1		Work stoppage
-1		Constraints
-1		Skills assessment
-1		Pay slip
-1		Changes to personal data (bank details, address, family situation...)
-1		Working Time Account
-1		Seniority leave
-1		Sabbatical
-1		Request
-1		Resignation
-1		Various
-1		Various
-1		Various
-1		Temporary entry
-1		Fixed-term entry
-1		Permanent entry
-1		Intern entry
-1		Annual review
-1		Employee Savings Plan
-1		End of Fixed-term contract
-1		Skills training
-1		Health and welfare costs
-1		Overtime
-1		Profit sharing
-1		Dismissal
-1		Housing and loan
-1		Sick Leave
-1		Maternity, Paternity, Adoption
-1		Long-service award
-1		Mobility (transfer, expatriation, mission, detachment…)
-1		Modification of working time
-1		Expenses bill
-1		Organization of working time
-1		Timekeeping
-1		Bonus and Allowance
-1		Technical issues
-1		Compensatory rest or Hours to reclaim
-1		Retirement
-1		Retirement
-
-1		Income deductibles
-1		Account balance
-1		Leavings
-1		Intern
-1		Teleworking
-1		Part-time for medical reasons
-1		Restaurant vouchers
-1		Transport (Subscription…)
-1		Thirteenth month
-1		Accreditation for work experience
-1		Vehicule
-1		Absence and Tardiness (Work Duration)
-1		Absence and Tardiness (Employee Relations)
-1		Access
-1		ADA / Disabilities/Accomodations
-1		Address/Email/Phone Number Change
-1		Administrative Exemptions
-1		Alternative Work Schedules (Flextime)
-1		Appeals
-1		Bereavement
-1		Business / Travel Expenses
-1		Child Care
-1		Compensation Administration
-1		Computer, Internet, and Electronic Communications
-1		Conduct
-1		Corrective Action
-1		Deductions from Pay
-1		Dental/Vision
-1		Dependent & Beneficiary Change
-1		Dependent Scholarships
-1		Diversity & Inclusion
-1		Dual Employment
-1		Educational
-1		Eligibility/Enrollment
-1		Emergency Contact/ Next of Kin
-1		Emergency Staffing Plan
-1		Employee Discounts & Subsidies
-1		Employee Health
-1		Employee Licensure, Certification, and Registration
-1		Employment of Relatives
-1		Employment Status
-1		Entertainment
-1		Entrepreneurial Leave
-1		Equal Opportunity
-1		Exemptions
-1		Expense Report
-1		Fair Labor Standards Act (FLSA)
-1		Family and Medical Leave (FMLA)
-1		Flexible Spending Accounts
-1		FTE/Position Change
-1		Government ID Maintenance
-1		Health & Wellness
-1		Holidays
-1		Hotel
-1		Hours of Work
-1		I-9 Policy
-1		Incentive Compensation
-1		Independent Contractors
-1		Insurance
-1		Internships/Summer/Seasonal Employment
-1		Job Analysis
-1		Job Change
-1		Job Posting/Application
-1		Jury Duty/Court Appearances
-1		Learning and Development
-1		Leave Accruals & Balances
-1		Life Events
-1		Long & Short Term Disability
-1		Long-term Disability (LTD)
-1		Marital Status Change
-1		Mass Updates
-1		Maternity/Parental Leave
-1		Medical
-1		Membership in Professional Organizations
-1		Merit Increases
-1		Military
-1		Miscellaneous
-1		Name Change
-1		New Hires
-1		Offboarding
-1		Onboarding
-1		Open Enrollment
-1		Orientation
-1		Other Benefits
-1		Overtime
-1		Part Time Employees
-1 		Performance Management
-1		Publications
-1		Recognition & Awards
-1		Releasing Employee Information
-1		Request
-1		Required/Compliance Trainings
-1		Retirement & Savings
-1		Sell or Donate PTO
-1		SSN/Demographics
-1		Status Update
-1		Payroll
-1		Paid Time Off (PTO)
-1		Pay Checks
-1		Personal
-1		Professional Development Assistance Program (PDAP)
-1		Recognition
-1		Recruiting
-1		Reporting Criminal Charges
-1		Required Education policy
-1		Research Study Participation
-1		Retirements
-1		School Events
-1		Short-Term Disability (STD)
-1		Start Date/ Length of Service
-1		Stock Options
-1		Technical Problem
-1		Telecommuting
-1		Termination
-1		Terminations    
-1		Time Keeping (Benefits & Pay)
-1		Timekeeping (On & Off Boarding)
-1		Transfer (On & Off Boarding)
-1		Travel
-1		Tuition Reimbursement (Career & Talent)
-1		Tuition Reimbursement (Benefits & Pay)
-1		Vehicle
-1		Verification
-1		Voting
-1		Withholding
-1		Work Information Changes
-1		Work Location
-1		Worker's Compensation
-1		Workforce Planning
-
-
+SentimentText       	Category
+	
+La SOCIETE GENERALE et ses filiales declinent toute responsabilite au titre de ce message s'il a ete altere, deforme ou falsifie.	
+Veuillez consulter le site http://swapdisclosure.sgcib.com afin de recueillir d'importantes informations sur les produits derives.	05 - DOCUMENTS ISSUEING
+BILLET ANNUEL SNCF	
+Bonjour, un auxiliaire de vacance peut-il bénéficier du billet annuel de la sncf ?	AVANTAGES SOCIETE GENERALE
+DEMANDE POUR MME betty DALLEAU GL003023736	
+Demande un 2eme renouvellement de son Congé Parental NR jusqu'à avril 2011 inclu. Quelle date de fain saisir ?	ABSENCES
+Cette salariée vient de réussir à l examen ITB 	
+quel montant dois je lui verser en prime et quelle augmentation doit elle avoir ?	
+Est actuellement niveau E	PAIE, REMUNERATION ET FRAIS PROFESSIONNELS
+Pour la naissance de jumeaux, y a t-il autre chose de plus que les 3 jours de conges spéciaux ?	ABSENCES
+Un salarié est malade. Durant son absence, peut-il bénéficier des indemnités de garde?	AVANTAGES SOCIETE GENERALE
+Pourquoi ma commande DW000215 Pixid n est elle pas redescendue dans GERSHWIN ?	OUTILS RH
+Recherche des informations sur la convocation en qualité de Juré d'assises	ABSENCES
+demande d'infos sur COQUILLE,JEANINE Cette retraitée est décédée.	
+Pouvez vous me dire quelle était son AGP ?	
+	DEPART DE L'ENTREPRISE*
+Impossible de saisir le changement de tuteur suite à sa mutation	THEME AUTRE
+Salariée recrutée en Juin. Demande a prendre 2 semaines de congés NR (avec l'accord de la hierarchie)	CONGES ANNUELS / RTT / COMPTE EPARGNE TEMPS
+Une auxiliaire de vacances, Anna SULEYMAN GL003431129, est absente depuis hier mais je ne sais toujours pas pour combien de temps... Nous sommes déjà le 27 juillet et j aimerais savoir jusque quand je peux demander à RSI Correction de déduire des jours de paie sur son salaire ?	PAIE, REMUNERATION ET FRAIS PROFESSIONNELS
+la salariée prend 10 CA + 5 jours conges spéciaux (total 15J) est ce que cela va déclancher le jour de fractionnement ?	CONGES ANNUELS / RTT / COMPTE EPARGNE TEMPS
+Un salarié qui quitte l'entreprise ce jeudi demande à lui imprimer une attestation stipulant qu'elle détient la certification AMF via la clause grand père	DEPART DE L'ENTREPRISE*
+Salarié en absences rémunérés depuis le 20/04/2010. Est ce que cette salarié cumule des RTT?	CONGES ANNUELS / RTT / COMPTE EPARGNE TEMPS
+Démissionnaire au 31/07/2010 a demandé à la mutuelle jusqu à quelle date il était couvert par la mutuelle	
+"Réponse ""fin de mois suivant la sortie définitive donc le 31/08/2010"""	
+Mais comment vont ils lui retenir sa cotisation puisqu il n aura plus de fiche de paie ?	MUTUELLE / PREVOYANCE
+Comment les Organismes: Régime général Sécurité Sociale, Retraite Complémentaires, Institution de Prévoyance VALMY, Mutuelle etc... sont ils avisés de la bonne adresse des salariés ?	DONNEES PERSONNELLES
+Quelle est la durée maximale d une disponibilite sans solde non rémunérée pour convenance personnelle ?	ABSENCES
+Qui doit rédiger une attestation de salaire pour la CPAM car la salariée va passer en longue maladie	ABSENCES
+Un auxiliaire de vacances qui devait venir en aout et qui a été saisi par l'AGP ne vient plus	
+Comment le faire supprimer dans GW ?	DEPART DE L'ENTREPRISE*
+La médecine du travail  (service médical inter entreprise qui n est ouvert que les lundi 3 jours dans le mois pendant les vacances scolaires) ne peut recevoir un auxiliaire de vacances car l'auxiliaire ne travaille pas ce jour là (régime d ouverture du mardi au samedi)	
+Comment faire pour l inscription ?	PARCOURS PROFESSIONNEL*
+a enregistré une utilisation CET dans le self. Son absence ne retombe pas dans GSW et son manager ne peut valider sa demande (conflit avec une autre absence) . Le salarié est absent actuellement. Comment faire ?	CONGES ANNUELS / RTT / COMPTE EPARGNE TEMPS
+Elle a une autorisation de prelevement d'une auxiliaire absente durant le mois de juillet. Comment doit elle procéder pour la reprise en compte?	PAIE, REMUNERATION ET FRAIS PROFESSIONNELS
+Ou était GL003317294 l'année dernière?	INTERIM / STAGES / EXTERNES
+posée par LE GLASSE Corinne Assistante RH 	
+Le fils d une collègue est depuis le 23/11/2009 en contrat de Professionnalisation avec un salaire brut mensuel de 1.091,24 €. l allocation études lui a été reprise en Décembre 2009 car le salaire dépasse les 3/4 du smic. Ayant une réclamation syndicale concernant cet agent, pouvez-vous me confirmer le droit ou non droit de ladite allocation ? 	
+	AVANTAGES SOCIETE GENERALE
+Concernant Mr NOIR Michel GL000063578  qui va lui remettre un certificat médical pour travail à temps partiel thérapeutique alors qu il n est pas actuellement en arret maladie 	
+Pensait qu il fallait que celà fasse suite à un arret maladie 	
+Qu en pensez vous ?	TEMPS DE TRAVAIL
+Recrutement externe avec détachement sur notre filiale LYXOR. Y a t il un impact pour ouvrir un compte mobilité?	AVANTAGES SOCIETE GENERALE
+L'heure de solidarité est elle toujours d'actualité car je ne trouve rien dans les actualités de la BASE doc?	ABSENCES
+n'arrive pas à renseigner le matricule conjoint apres avoir enregistré le pacs.	
+mlle conjoint : GL001206622	DONNEES PERSONNELLES
+Un salarié qui effectue 10 km par jour pour se rendre sur son lieu de travail peut il bénéficier de L'IFNT? Il n'y a pas d'instruction en ce sens juste les infos de la base doc.	AVANTAGES SOCIETE GENERALE
+Le fils de Mme se marie Mr peut il bénéficier des jours congés spéciaux?	ABSENCES
+26/07/2010 15:11	
+DELPHINE SIMON	
+DEC DE NANCY	
+Delphine.A.Simon@socgen.com	
+ABSENCES EXECPTIONNELLES	
+Bonjour , notre collégue syndiqué a accompagné dans le cadre de sa fonction une collégue à la comission paritaire de recours interne à Paris comment puis je entrer cette absence dans gershwin sous quel motif , merci de votre réponse	DROIT SYNDICAL ET SOCIAL
+A reçu une lettre de SG  le 13/07/2010 concernant la réévaluation périodique, au 01/07 de chaque année, des prestations de prévoyance	
+Pourquoi ?	MUTUELLE / PREVOYANCE
+GL001054253  FRISON ROCHE,LAURENCE   n a pas perçu sur sa paie de juillet l allocation de sa médaille vermeil  du travail.	
+Elle est actuellement absente pour maladie	
+Pouvez vous faire le nécessaire ?	AVANTAGES SOCIETE GENERALE
+le salarié part à la retraite le 01/09/10. Il lui reste 3,5 jours en CET. Comment encoder ?	CONGES ANNUELS / RTT / COMPTE EPARGNE TEMPS
+Salariée a eu un accident du travail le 06/07/2010 et a fait sa déclaration à la CPAM dans les délai.	
+L AGP rentrant de congé hier trouve la déclaration que la CPAM lui a retournée 	
+SG doit indiquer la date de constatation de l'accident.	
+Doit elle mettre le 27/07/2010 ?	ABSENCES
+"Dans le régime du travail/ARTT de la salariée L/V il reste affiché dans donnée ARTT données d emploi  en"" option individuelle"" M/S 2% "	
+Pourquoi ?	TEMPS DE TRAVAIL
+Je ne suis pas OK avec le nombre de CA en report de ce salarié. il devrait avoir 17 jours et non pas 22.	CONGES ANNUELS / RTT / COMPTE EPARGNE TEMPS
+la salariée a recu une lettre l'informant qu'elle allait passer à 1/2 solde. Est ce que la prévoyance va compenser son passage à 1/2 solde ?	MUTUELLE / PREVOYANCE
+Salarié demande la prise en charge dans le cadre du DIF de son stage de récupération de point pour son permi.	FORMATION
+Salriée qui conteste l augmentation de sa rémunération suite à sa réussite à l'examen ITB	
+Etait niveau E et devient G	
+L augmentation minimum allouée est celle prévue de F à G Pourquoi ?	PARCOURS PROFESSIONNEL*
+27/07/2010 14:47	
+LECORBEILLER MARIE HELENE	
+ANNEMASSE	
+Mariehelene.Lecorbeiller@socgen.com	
+Fin de temps partiel et retraite	
+Notre agent Madame AMOUDRUZ part en retraite le 1/10/2010. En temps partiel à 80% jusqu au 31/07. Faut-il renouveler son temps partiel ou laisser à 100%, sachant qu elle va utiliser ses congés et RTT pour le temps qui reste à courir? comment calculer ses soldes das ces conditions. Merci	TEMPS DE TRAVAIL
+Va être en conge de maternité du 27/09/2010 au 07/01/2011	
+"elle doit passer l'oral de l examen ""cursus cadre"" puisque ient de réussir les écrit"	
+Comment celà se passe t il ?	FORMATION
+Agé de 44 ans s interroge sur l'annexe 4  du régime de prévoyance	MUTUELLE / PREVOYANCE
+Pour GL003370020, la journée du lundi 12/07 apparait en jours férié.	TEMPS DE TRAVAIL
+Un de ses clients dont l'épouse était salariée SG partie à la retraite le 01/01/2009 vient de décéder	
+Il est dans la détresse pour s occuper des papiers pour la déclaration auprès des différents organismes	
+Peut on l aider ?	THEME AUTRE
+Pour GL003370301, la journée du lundi 12/07 apparait en jours férié.	TEMPS DE TRAVAIL
+Mme JACQUELINE Audrey GL001573492, actuellement à 100 % passera à 80 % le 06/09/2010. Sa demande de temps partiel est faite ce jour et nous l acceptons. Elle me demande de cotiser à 100 % cotis. Vieillesse. doit on respecter la période de 3 mois avant impérativement ? elle reprend le 6/09 et sur l imprimé adéquat il s agit du 1er du mois, doit on faire commencer le 01/10 ?	PAIE, REMUNERATION ET FRAIS PROFESSIONNELS
+Est il possible à une auxiliaire de vacances d effectuer des heures supplémentaires ?	TEMPS DE TRAVAIL
+Est il possible de faire un temps partiel 80 % avec repos les mercredi après midi et un samedi sur 2	
+Il s agit d une salariée travaillant dans une agence ouverte 37H22 	
+M/S matin	
+	
+Demandait à l'origine un temps partiel 90 % avec repos le mercredi et samedi matin une semaine sur deux mais pas autorisé !	TEMPS DE TRAVAIL
+27/07/2010 14:05	
+muraire monique	
+1500	
+monique.muraire@socgen.com	
+CHANGEMENT ADRESSE	
+Bonjour, comment enregistrer une adresse où apparait ancien chemin, cela n est pas prévu.	DONNEES PERSONNELLES
+2010/07/27 16:10 DANIAU Marie	
+RESO/DSC/REN/DIR	
+Marie.Daniau@socgen.com	
+temps partiel parental et cotisation base temps plein	
+"Peut on sur cotiser au régime vieillesse lorsque la salariée bénéficie d un temps partiel parental .merci pour votre réponse"""	TEMPS DE TRAVAIL
+delais de mise en place des demande de sur-cotisations base temps plein SS.	TEMPS DE TRAVAIL
+demande d'information sur l'application de la journée de solidarité pour les temps partiels sur le lundi de pentecote.	INTERIM / STAGES / EXTERNES
+le Congé Parental se termine le 27 aout. dois-je faire débuter le TP parental le 28 Aout?	ABSENCES
+quelle convention de temps partiel parental utiliser pour formaliser le temps partiel parental de la salariée ?	TEMPS DE TRAVAIL
+est il possible de mettre en place un temps partiel parental en jour allégés?	TEMPS DE TRAVAIL
+un salarié doit accompagner des enfants lors d'un départ en colonie de vacances.	ABSENCES
+Est il possible de prolonger la mission d'un auxiliaire de vacances de 2 semaines pendant la période estivale ?	PARCOURS PROFESSIONNEL*
+il semble que l on puisse recruter les alternants avant la rentrée scolaire. Est-ce exact?	PARCOURS PROFESSIONNEL*
+Pour les contrat d apprentissage, la grille n est pas à jour. Les écoles me demandent le barème pour compléter le contrat.	PARCOURS PROFESSIONNEL*
+Demande s il est possible de faire une prolongation de 2 semaines d un auxiliaire de vacances ?	PARCOURS PROFESSIONNEL*
+"Paie stagiaire GL003426319 GAUDRY Charles"";""je ne comprends pas son bulletin de juillet. A priori peut-être un problème dans les absences que ns avons saisies. Pouvez vous m aider SVP?"	PAIE, REMUNERATION ET FRAIS PROFESSIONNELS
+Suite à ma question du 29/06/2010 concernant la succession de contrats d'alternance. Contrat Pro BTS à la Caisse d'Epargne puis Contrat d'Apprentissage Licence Pro à SG. Quelle rémunération indiquer ? 	
+J'ai trouvé une info dans Documentation  > Populations spécifiques  > Alternants  > Succession des contrats ou il est indiqué un exemple :	
+	
+"Un jeune a préparé un BTS dans le cadre d’un contrat de professionnalisation ; titulaire d’un bac technologique, il bénéficiait d’une rémunération annuelle de 13 312,72 €. 
+Il conclut un contrat d’apprentissage pour préparer une licence professionnelle Banque ; selon les règles applicables à ce type de contrat, il devrait bénéficier d’une rémunération annuelle de 10 706 € (niveau &#8805; Bac+2 et 1 ère année d’exécution du contrat), qui est inférieure à la rémunération antérieurement perçue. 
+De ce fait, il conviendra de le faire bénéficier de la rémunération applicable au niveau &#8805; Bac+2 et 3 ème année d’exécution du contrat, à savoir 15 756 € / an.   "	THEME AUTRE
+demande d'information sur son solde de CA 2010.  Le salarié a 26 CA 2010. Il n'a pris que 6 CA cette année mais il ne lui reste plus de congés !	CONGES ANNUELS / RTT / COMPTE EPARGNE TEMPS
+pb avec la secu concernant les dates du congé d'adoption. Enfant arrivée le 18 mars dans la famille. La maman pose ses congés à partir du 6 avril. la secu prend en compte comme date de debut le 18 mars.	ABSENCES
+j'ai renseigné par erreur le RIB de la fille de Mme Chauvy, actuellement auxiliaire SG, dans le dossier de notre notre salariée. Comment régulariser ?	PAIE, REMUNERATION ET FRAIS PROFESSIONNELS
+doit on utiliser ses RTT avant de demander un congé annuel NR ?	ABSENCES
+un auxiliaire de vacance s'est désisté. Comment annuler ?	PARCOURS PROFESSIONNEL*
+gl001029511 a été licencié et a quité l'entreprise. Elle formule une demande de formation dans le cadre du DIF.	FORMATION
+aide pour la saisie d'une AAC	OUTILS RH
+gl001693027 a fait un malaise dans son agence. Dois-je faire une déclaration d'AT ? (pas d'arret)	ABSENCES
+"A quoi correspond la ""prime maintien CA"" ?"	PAIE, REMUNERATION ET FRAIS PROFESSIONNELS
+Pourquoi y a t il 2,50 jours de RTT décomptés de son compteur dans GW  alors qu elle n a posé que 3 samedi matin qui se décomptent en 3*0,50 j = 1,50 j ?	CONGES ANNUELS / RTT / COMPTE EPARGNE TEMPS
+Pourquoi son solde CA est il négatif dans son self service ?	CONGES ANNUELS / RTT / COMPTE EPARGNE TEMPS
+est mutée le 30 aout d'une agence M/S vers une agence lundi vendredi. Doit elle travailler le samedi 28 ?	PARCOURS PROFESSIONNEL*
+Est il permis de prendre moins que les 14 jours de congé pathologique car notre salariée n en prend que 4 jours ?	ABSENCES
+Savez vous combien de temps la redescente se fait dans Expense  d'une inscription de carte affaire ?	PAIE, REMUNERATION ET FRAIS PROFESSIONNELS
+BLEUSE,REJANE  GL000813303  travaille à 90% dans le cadre de l'accord senior dans une agence 4,5 jours M/S Comment se decompte le samedi matin lorsqu'elle pose 1 RTT ?	CONGES ANNUELS / RTT / COMPTE EPARGNE TEMPS
+Je souhaitais connaitre l affectation de LOT ANGELIQUE Matricule GL 00 3211885 afin de l accueillir dès la semaine prochaine au sein de notre DEC. En vous remerciant de votre réponse	PARCOURS PROFESSIONNEL*
+Salarié dans agence L/V doit etre envoyé en renfort dans une agence M/S. Dois-je changer ses données ARTT et cycle de travail ?	TEMPS DE TRAVAIL
+salarié s'etonne d'etre en CA négatif dans son self service.	CONGES ANNUELS / RTT / COMPTE EPARGNE TEMPS
+doit on verser une prime de diplome pour un alternant ayant réussu son examen et qui n'est pas embauché ?	PAIE, REMUNERATION ET FRAIS PROFESSIONNELS
+un salarié passe le BP en candidat liblre.  est-ce qu'il existe un congé spécifique ?	ABSENCES
+partant à la retraite au 01/08/2010 il lui a été remis des documents dont un concernant une assurance pour une garantie décès post activité peut on le renseigner ?	DEPART DE L'ENTREPRISE*
+salarié muté le 31 aout. Pourquoi la commende est elle arrivée sur sa nouvelle affectation?	AVANTAGES SOCIETE GENERALE
+demande de renseignement concernant une deuzième grossesse qui serait sans solde	ABSENCES
+Quelle date de fin de contrat doit elle indiquer sur la sortie définitive ?	
+Sachant que la convocation aura lieu le 04/08/2010 la lettre remise en main propre le 07/08/2010 (lettre type n°2)	
+qu’un délai de prévenance de deux semaines, court à compter du lendemain de la première présentation de cette lettre 	
+pour elle il faut indiquer le 22/08/2010 sommes nous d accord ?	DEPART DE L'ENTREPRISE*
+Ne comprend pas pourquoi sa demande PIXID d un intérimaire sur l agence de Pantin 4 Chemin s est retrouvé affecté à Levallois ?	
+GL00X099699 MIKINHOUESSE HERVE (PAS TROUVE DANS NEOCASE)	
+	OUTILS RH
+Auxiliaire de vacances muté avant debut du contrat	
+Comment enregistrer cette nouvelle affectation ?	
+	
+	PARCOURS PROFESSIONNEL*
+la salariée a été arrété et me demande une attestation de salaire maladie prof.	
+	ABSENCES
+l'AUXILIAIRE GL003417516 annule sa venue. Comment supprimer ses TR que nous avons reçus	  PARCOURS PROFESSIONNEL*
+05 53 02 57 30	
+"En date du 6 avril dernier, nous avons recruté Mme Djamila HANOU GL003403979 sur un poste de chargé d’accueil à l’Agence de Périgueux, et dont la période d’essai a été validée en un recrutement définitif. Mme Hanou venait d’être licenciée pour motif économique par sa précédente Société A ce titre, elle nous a informés que notre Etablissement pouvait bénéficier du versement d’une aide de 2000 € dont 1000 € versés à l’issue de sa période d’essai .Nous avons reçu une convention de la part de cette société Convention de versement de prime de reclassement externe que nous devons retourner signée. L article 3 de la convention précise que nous allons recevoir un 1er chèque de 1000 € (dès à présent) La question est de savoir comment comptabiliser ces versements dans nos lignes puisque nous n avons pas accès aux comptes généraux concernant la force de travail A quel service devons nous faire suivre ces chèques ? En vous remerciant Sentiments les meilleurs"""	THEME AUTRE
+est-ce a moi de faire l'attestation de travail pour les auxiliaires de vacances ?	THEME AUTRE
+"double paiement paie de juin"";""M. Romain GAMBERT matricule GL 003327202 est crédité sur son compte courant ce jour de 2 fois son salaire. Je vous remercie de m indiquer comment régulariser la situation.Cordialement. Mme Cécile DEROY RRHL"""	PAIE, REMUNERATION ET FRAIS PROFESSIONNELS
+"Clément BAILLIF - GL003421401-"";""Stage étude de 2 mois - non rémunéré - fin du stage 30/07/10 - Le DIRCO souhaiterait qu une prime lui soit versée. Comment peut-on faire ?"	 PAIE, REMUNERATION ET FRAIS PROFESSIONNELS
+"prime maintien congé annuel"";""Bonjour, pourriez vous svp m expliquer que signifie Prime maintien Congé annuel dans la fiche de paie de juillet de Nathalie Alexis GL003236700 ?   PAIE, REMUNERATION ET FRAIS PROFESSIONNELS"	
+Pouvez vous me communiquer le numéro risque sécurité sociale ?	ABSENCES
+A quoi correspond la prime maintien CA	PAIE, REMUNERATION ET FRAIS PROFESSIONNELS
