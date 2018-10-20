@@ -83,6 +83,9 @@ namespace Model
             Console.WriteLine();
             Console.WriteLine("PredictionModel quality metrics evaluation");
             Console.WriteLine("------------------------------------------");
+            Console.WriteLine($"LogLoss: { metrics.LogLoss:P2}");
+            //Console.WriteLine($"ConfusionMatrix: { metrics.ConfusionMatrix:P2}");
+            Console.WriteLine($"AccuracyMicro: { metrics.AccuracyMicro:P2}");
             Console.WriteLine($"Accuracy: {metrics.AccuracyMacro:P2}");
             //Console.WriteLine($"Auc: {metrics.Auc:P2}");
             //Console.WriteLine($"F1Score: {metrics.F1Score:P2}");
@@ -126,7 +129,7 @@ namespace Model
                 },
                  new SentimentData
                 {
-                     SentimentText = "Demande un 2eme renouvellement de son Congé Parental NR jusqu'à avril 2011 inclu. Quelle date de fain saisir ?"
+                     SentimentText = " travail pour les auxiliaires de vacances ?	"
 
                 }
             };
