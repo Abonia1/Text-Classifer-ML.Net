@@ -1,4 +1,4 @@
-# Project Title
+# Sentiment Analysis ML.NET
 
 Text classification is a smart classification of text into categories. And, using machine learning to automate these tasks, just makes the whole process super-fast and efficient. Artificial Intelligence and Machine learning are arguably the most beneficial technologies to have gained momentum in recent times. 
 
