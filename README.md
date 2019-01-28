@@ -44,7 +44,7 @@ This model can be used as web api inside your application for to predict categor
 
 ## Versioning
 
-Minor	Model trained with 3000 messages to detect category
+Minor	Model trained with 30000 messages to detect category
 Major	Model trained with large dataset to detect Category and Sub-Category
 
 
